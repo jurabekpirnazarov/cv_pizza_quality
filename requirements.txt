@@ -1,0 +1,11 @@
+pillow>=11.0            # Pillow for image handling
+opencv-python>=4.10
+ultralytics>=8.2      # YOLOv8 CLI & Python API
+lap>=0.5
+torch>=2.7,<3.0.0        # PyTorch for model inference
+torchvision>=0.16,<1.0.0 # torchvision for model inference
+tqdm>=4.66.1
+PyYAML>=6
+typer[all]>=0.9.0     # neat CLI sugar
+numpy>=1.24
+streamlit>=1.45.1
