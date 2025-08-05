@@ -1,0 +1,2 @@
+# cv_pizza_quality
+I worked on pizza quality here. First, the model was trained to detect the states of pizzas before and after they were baked. Then, models were created that predicted the quality of the pizzas based on the different states.
